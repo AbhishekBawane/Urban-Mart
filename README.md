@@ -85,13 +85,13 @@ src/
 
 ```
 
-# ⚙️ Installation & Setup
+# Installation & Setup
 
 Follow these steps to run the project locally on your machine.
 
 ---
 
-## 1️⃣ Clone the Repository
+## 1️. Clone the Repository
 
 ```bash
 git clone <your-github-repository-link>
@@ -99,7 +99,7 @@ git clone <your-github-repository-link>
 
 ---
 
-## 2️⃣ Navigate to Project Folder
+## 2️. Navigate to Project Folder
 
 ```bash
 cd urban-mart
@@ -107,7 +107,7 @@ cd urban-mart
 
 ---
 
-## 3️⃣ Install Dependencies
+## 3️. Install Dependencies
 
 ```bash
 npm install
@@ -115,7 +115,7 @@ npm install
 
 ---
 
-## 4️⃣ Start Development Server
+## 4️. Start Development Server
 
 ```bash
 npm start
@@ -123,7 +123,7 @@ npm start
 
 ---
 
-## 5️⃣ Open in Browser
+## 5️. Open in Browser
 
 Visit:
 
@@ -133,7 +133,7 @@ http://localhost:3000
 
 ---
 
-# 📦 Required Packages
+# Required Packages
 
 The project uses the following main packages:
 
@@ -145,7 +145,7 @@ npm install tailwindcss
 
 ---
 
-# 🛠️ Build for Production
+# Build for Production
 
 ```bash
 npm run build
