@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Tomatoes",
+    "category": "Vegetables",
+    "mrp": 35,
+    "sp": 30,
+    "unit": "500g",
+    "inStock": true,
+    "img": "https://images.unsplash.com/photo-1546094096-0df4bcaaa337"
+  },
+  {
+    "id": 2,
+    "name": "Spinach",
+    "category": "Vegetables",
+    "mrp": 30,
+    "sp": 25,
+    "unit": "250g",
+    "inStock": true,
+    "img": "https://images.unsplash.com/photo-1576045057995-568f588f82fb"
+  },
+  {
+    "id": 3,
+    "name": "Bananas",
+    "category": "Fruits",
+    "mrp": 50,
+    "sp": 45,
+    "unit": "Dozen",
+    "inStock": true,
+    "img": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e"
+  },
+  {
+    "id": 4,
+    "name": "Apples",
+    "category": "Fruits",
+    "mrp": 140,
+    "sp": 120,
+    "unit": "1 kg",
+    "inStock": true,
+    "img": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+  },
+  {
+    "id": 5,
+    "name": "Whole Milk",
+    "category": "Dairy",
+    "mrp": 70,
+    "sp": 60,
+    "unit": "500 ml",
+    "inStock": true,
+    "img": "https://images.unsplash.com/photo-1563636619-e9143da7973b"
+  },
+  {
+    "id": 6,
+    "name": "Paneer",
+    "category": "Dairy",
+    "mrp": 99,
+    "sp": 90,
+    "unit": "200g",
+    "inStock": false,
+    "img": "https://images.unsplash.com/photo-1631452180539-96aca7d48617"
+  },
+  {
+    "id": 7,
+    "name": "Brown Eggs",
+    "category": "Dairy",
+    "mrp": 85,
+    "sp": 80,
+    "unit": "6 pcs",
+    "inStock": true,
+    "img": "https://images.unsplash.com/photo-1506976785307-8732e854ad03"
+  },
+  {
+    "id": 8,
+    "name": "Coriander",
+    "category": "Herbs",
+    "mrp": 20,
+    "sp": 15,
+    "unit": "Bunch",
+    "inStock": true,
+    "img": "https://images.unsplash.com/photo-1628773822503-930a7eaecf80"
+  }
+]
