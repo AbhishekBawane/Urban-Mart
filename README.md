@@ -82,6 +82,9 @@ src/
 │
 ├── assets
 │   ├── product.json
+│
+├── App.jsx
+├── index.js
 
 ```
 
@@ -155,6 +158,4 @@ This creates an optimized production build inside the `build` folder.
 
 # Vercal link 
   < https://urban-mart-three.vercel.app/ >
-│
-├── App.jsx
-├── index.js
+
