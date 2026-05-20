@@ -97,7 +97,7 @@ Follow these steps to run the project locally on your machine.
 ## 1️. Clone the Repository
 
 ```bash
-git clone <your-github-repository-link>
+git clone <https://github.com/AbhishekBawane/Urban-Mart>
 ```
 
 ---
